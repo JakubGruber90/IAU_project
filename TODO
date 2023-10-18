@@ -1,0 +1,17 @@
+PRODUCTS:
+- rozdelit kontinent a mesto do dvoch columns
+
+USERS:
+- niektore udaje su v hieroglifoch, najst sposob ich prelozit do romanji??
+- current_location - bud najst sposob zistit lokaciu alebo sa toho zbavit??
+- adresa: dat prec \n, upravit format
+- niektore su oznacene ako unspecified = dat na NaN (users.race.unique() = zistime co je tam este)
+- registracia - unify format
+
+SESSIONS:
+- screen width aj height - niektore su cuselne, niktore su slovne - upravit na rovnaky format
+- skontorlovat browser name unique
+
+TEST:
+- zavisi medzi sebou: load time a rage clicks? load time a browser? wild move?
+- je viacej ack=1 s rastucim session duration?
